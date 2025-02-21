@@ -1,0 +1,4 @@
+Collecting vllm==0.2.7
+  Using cached vllm-0.2.7.tar.gz (170 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'error'
